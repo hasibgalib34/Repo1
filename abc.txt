@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-one two three four five
-=======
-one two three four six
->>>>>>> 05ec40f1bc40cc7526cdf7164f98eacfe7d39554
+great
