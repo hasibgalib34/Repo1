@@ -1,1 +1,5 @@
-one
+<<<<<<< HEAD
+great bad
+=======
+great good
+>>>>>>> 6cbe0b7 (good)
