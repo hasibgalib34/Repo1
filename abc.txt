@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-great bad
-=======
-great good
->>>>>>> 6cbe0b7 (good)
+branch 2 one
